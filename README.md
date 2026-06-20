@@ -210,7 +210,6 @@ get_stats(df, transactions)
 ## 👤 Auteur
 
 **Abdoul Rachid Fadé**  
-Étudiant MSc Intelligence Artificielle — Epitech  
 Data Analyst · Python · SQL · Power BI · Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ton-profil)

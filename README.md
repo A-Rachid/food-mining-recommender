@@ -3,7 +3,7 @@
 > **Data Mining · Règles d'association · Dashboard interactif**  
 > Analyse des commandes d'un service de livraison pour détecter quels plats sont commandés ensemble et générer des recommandations automatiques.
 
-🔗 **[Voir le dashboard en ligne](https://ton-app.streamlit.app)** *(à mettre à jour après déploiement)*
+🔗 **[Voir le dashboard en ligne]([https://ton-app.streamlit.app](https://food-mining-recommender-lbl8htmlewcjkxxtrjxobu.streamlit.app/)** *(à mettre à jour après déploiement)*
 
 ---
 
